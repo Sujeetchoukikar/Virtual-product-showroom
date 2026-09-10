@@ -121,7 +121,7 @@ Have questions or need assistance? Get in touch:
 
 <div align="center">
 
-**Made with ❤️ by [Sujeetchoukikar](https://github.com/Sujeetchoukikar)**
+**Made by [Sujeetchoukikar](https://github.com/Sujeetchoukikar)**
 
 ⭐ If you like this project, please consider giving it a star!
 
