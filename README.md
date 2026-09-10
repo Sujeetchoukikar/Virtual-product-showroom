@@ -21,31 +21,6 @@ Virtual Product Showroom is an interactive web application that allows businesse
 - **Furniture & Home Decor** - Visualize how products look in different environments
 - **Fashion & Accessories** - Interactive product displays with detailed views
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js (v14 or higher)
-- npm or yarn
-
-### Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/Sujeetchoukikar/Virtual-product-showroom.git
-cd Virtual-product-showroom
-```
-
-2. Install dependencies
-```bash
-npm install
-```
-
-3. Start the development server
-```bash
-npm start
-```
-
-4. Open your browser and navigate to `http://localhost:3000`
 
 ## 📂 Project Structure
 
