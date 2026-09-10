@@ -93,47 +93,6 @@ Virtual-product-showroom/
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js (v14 or higher)
-- npm or yarn
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/Sujeetchoukikar/Virtual-product-showroom.git
-
-# Navigate to project directory
-cd Virtual-product-showroom
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-### Build for Production
-
-```bash
-npm run build
-```
-
----
-
-## 🎨 Customization Guide
-
-You can easily customize the showroom:
-
-- **Add 3D Models** - Place new product models in the `assets` folder
-- **Modify Themes** - Update colors and styles in the styling configuration
-- **Configure Products** - Edit product data and information
-- **Adjust Interactions** - Customize mouse controls and animations
-- **Update Branding** - Change logos, colors, and company information
-
----
 
 ## 🎥 Demo
 
